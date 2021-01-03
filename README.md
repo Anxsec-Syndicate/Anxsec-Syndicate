@@ -1,5 +1,5 @@
 ## SELAMAT DATANG DI GITHUB KAMI
-<p align="center"><a href="https://github.com/Anxsec-Syndicate"><img src="https://k.top4top.io/p_1805q1nfg1.jpg" height='195' alt="ANXSEC-SYNDICATE">
+<p align="center"><a href="https://github.com/Anxsec-Syndicate"><img src="https://k.top4top.io/p_1805q1nfg1.jpg" height='195' alt="AnXsec-Syndicate">
 <a href="https://github.com/Anxsec-Syndicate"><img title="AnXsec-Syndicate" src="https://github-readme-stats.vercel.app/api?username=Anxsec-Syndicate&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
