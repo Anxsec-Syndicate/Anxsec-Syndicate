@@ -26,4 +26,3 @@
 <a href="https://github.com/Anxsec-Syndicate/anoncjtest"><img title="Anoncjtest" src="https://github-readme-stats.vercel.app/api/pin/?username=Anxsec-Syndicate&repo=anoncjtest&theme=vision-friendly-dark"></a>
 </p>
 
-
